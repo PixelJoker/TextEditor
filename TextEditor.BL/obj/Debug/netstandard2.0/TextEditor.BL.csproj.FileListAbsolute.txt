@@ -1,0 +1,9 @@
+C:\Users\Анатолий\source\repos\TextEditor.BL\bin\Debug\netstandard2.0\TextEditor.BL.deps.json
+C:\Users\Анатолий\source\repos\TextEditor.BL\bin\Debug\netstandard2.0\TextEditor.BL.dll
+C:\Users\Анатолий\source\repos\TextEditor.BL\bin\Debug\netstandard2.0\TextEditor.BL.pdb
+C:\Users\Анатолий\source\repos\TextEditor.BL\obj\Debug\netstandard2.0\TextEditor.BL.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\TextEditor.BL\obj\Debug\netstandard2.0\TextEditor.BL.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\TextEditor.BL\obj\Debug\netstandard2.0\TextEditor.BL.AssemblyInfoInputs.cache
+C:\Users\Анатолий\source\repos\TextEditor.BL\obj\Debug\netstandard2.0\TextEditor.BL.AssemblyInfo.cs
+C:\Users\Анатолий\source\repos\TextEditor.BL\obj\Debug\netstandard2.0\TextEditor.BL.dll
+C:\Users\Анатолий\source\repos\TextEditor.BL\obj\Debug\netstandard2.0\TextEditor.BL.pdb
